@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.19';
+our $VERSION = '0.02';
 
 use Acme::CPANAuthors::Register (
   CLAESJAC => 'Claes Jakobsson',
@@ -16,7 +16,8 @@ use Acme::CPANAuthors::Register (
 1;
 
 __END__
-=encoding utf8
+
+=pod
 
 =head1 NAME
 
