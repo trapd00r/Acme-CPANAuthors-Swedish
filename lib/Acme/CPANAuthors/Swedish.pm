@@ -7,12 +7,13 @@ use utf8;
 our $VERSION = '0.03';
 
 use Acme::CPANAuthors::Register (
-  ABERGMAN => 'Artur Bergman',
-  CLAESJAC => 'Claes Jakobsson',
-  ERWAN    => 'Erwan Lemonnier',
-  OLOF     => 'Olof Johansson',
-  WOLDRICH => 'Magnus Woldrich',
-  ZIBRI    => 'Olof Johansson',
+  ABERGMAN  => 'Artur Bergman',
+  CLAESJAC  => 'Claes Jakobsson',
+  ERWAN     => 'Erwan Lemonnier',
+  HOBBESTIG => 'Natal Ngétal',
+  OLOF      => 'Olof Johansson',
+  WOLDRICH  => 'Magnus Woldrich',
+  ZIBRI     => 'Olof Johansson',
 );
 
 1;
