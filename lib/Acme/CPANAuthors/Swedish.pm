@@ -22,6 +22,8 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 Acme::CPANAuthors::Swedish - We are swedish CPAN authors
