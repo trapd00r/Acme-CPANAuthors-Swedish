@@ -13,7 +13,7 @@ use Acme::CPANAuthors::Register (
   HOBBESTIG => 'Natal Ngétal',
   OLOF      => 'Olof Johansson',
   WOLDRICH  => 'Magnus Woldrich',
-  ZIBRI     => 'Olof Johansson',
+  OLOF      => 'Olof Johansson',
 );
 
 1;
