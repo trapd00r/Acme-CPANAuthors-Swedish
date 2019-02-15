@@ -4,7 +4,7 @@ use strict;
 use warnings;
 use utf8;
 
-our $VERSION = '0.04';
+our $VERSION = '0.06';
 
 use Acme::CPANAuthors::Register (
   ABERGMAN  => 'Artur Bergman',
@@ -72,7 +72,7 @@ L<Acme::CPANAuthors> - Main class to manipulate this one
 
   Magnus Woldrich
   CPAN ID: WOLDRICH
-  magnus@trapd00r.se
+  m@japh.se
   http://japh.se
   http://github.com/trapd00r
 
@@ -82,7 +82,7 @@ None required yet.
 
 =head1 COPYRIGHT
 
-Copyright 2011 the B<Acme::CPANAuthors::Swedish> L</AUTHOR> and L</CONTRIBUTORS>
-as listed above.
+Copyright 2011, 2019- the B<Acme::CPANAuthors::Swedish> L</AUTHOR> and
+L</CONTRIBUTORS> as listed above.
 
 =cut
